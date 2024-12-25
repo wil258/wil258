@@ -1,11 +1,13 @@
-### Olá, sou William, bolsista CEPEDI, trilha  Backend Python 1 e 2 segunda fase
 
-https://cepedi.org.br/quem-somos/
+### Olá, sou William, bolsista CEPEDI, trilha Backend Python 1 e 2 segunda fase
 
+[CEPEDI - Quem Somos](https://cepedi.org.br/quem-somos/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wil258&show=dracula)
 
-<div style="display: flex; flex-direction: column; gap: 20px;">
+## Tecnologias que mais uso no meu dia
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <div style="display: inline-block;">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   </div>
@@ -19,7 +21,7 @@ https://cepedi.org.br/quem-somos/
     <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   </div>
   <div style="display: inline-block;">
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white">
   </div>
   <div style="display: inline-block;">
     <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -34,6 +36,7 @@ https://cepedi.org.br/quem-somos/
     <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   </div>
 </div>
+
 
 
 
