@@ -58,20 +58,19 @@
 
 </div>
 
-<p><strong>Essas são algumas das tecnologias que mais utilizo no meu dia a dia, e estou sempre em busca de aprender novas ferramentas e melhorar minhas habilidades como desenvolvedor backend.</strong> Se quiser saber mais sobre meus projetos ou colaborar em algum, sinta-se à vontade para entrar em contato!</p>
+<p><strong>Essas são algumas das tecnologias que mais utilizo no meu dia a dia. Estou sempre em busca de aprender novas ferramentas e melhorar minhas habilidades como desenvolvedor backend.</strong> Se quiser saber mais sobre meus projetos ou colaborar em algum, sinta-se à vontade para entrar em contato!</p>
 
 <h3><strong>Entre em contato</strong></h3>
 <p>Você pode me encontrar através do meu <a href="mailto:microempreedendorwa@gmail.com">Gmail</a> ou nas redes sociais:</p>
 
-<p><a href="https://github.com/wil258" target="_blank"><strong>GitHub</strong></a> | <a href="https://https://www.linkedin.com/in/william-pereira-rodrigues-19054563/" target="_blank"><strong>LinkedIn</strong></a></p>
-
-
-
-
-   
- 
-
-
+<p>
+  <a href="https://github.com/wil258" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a> | 
+  <a href="https://www.linkedin.com/in/william-pereira-rodrigues-19054563/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 
 
