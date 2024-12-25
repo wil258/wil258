@@ -8,7 +8,8 @@
 
 <h3>Tecnologias que mais uso no meu dia</h3>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
+<!-- Organizando os badges verticalmente com flexbox e maior espaçamento -->
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin-top: 20px;">
 
   <!-- Badge de HTML5 -->
   <div style="display: inline-block;">
@@ -58,6 +59,7 @@
 </div>
 
 <p>Essas são algumas das tecnologias que mais utilizo no meu dia a dia, e estou sempre em busca de aprender novas ferramentas e melhorar minhas habilidades como desenvolvedor backend. Se quiser saber mais sobre meus projetos ou colaborar em algum, sinta-se à vontade para entrar em contato!</p>
+
 
 
    
