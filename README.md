@@ -73,6 +73,19 @@
 </p>
 
 
+<p>Você pode acessar mais informações sobre minha educação no meu perfil do LinkedIn através deste <a href="https://www.linkedin.com/in/william-pereira-rodrigues-19054563/details/education/1635542047926/single-media-viewer/?profileId=ACoAAA1tkrwBuqCb6qEo8lEAy0sw9zCpVIs23Ew" target="_blank"><strong>link</strong></a>.</p>
+
+<p>Ou veja a imagem do meu perfil educacional abaixo:</p>
+<img src="https://via.placeholder.com/150" alt="Imagem do Perfil Educacional" />
+
+<p>Você pode acessar mais informações sobre minha educação no meu perfil do LinkedIn através deste <a href="https://www.linkedin.com/in/william-pereira-rodrigues-19054563/details/education/1635542047926/single-media-viewer/?profileId=ACoAAA1tkrwBuqCb6qEo8lEAy0sw9zCpVIs23Ew" target="_blank"><strong>link</strong></a>.</p>
+
+<p>Ou veja a imagem do meu perfil educacional abaixo:</p>
+<img src="https://via.placeholder.com/150" alt="Imagem do Perfil Educacional" />
+
+
+
+
 
   
   
