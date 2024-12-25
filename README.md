@@ -8,54 +8,8 @@
 
 <h3><strong>Tecnologias que mais uso no meu dia</strong></h3>
 
-<!-- Organizando os badges verticalmente com flexbox e maior espaçamento -->
-<div style="display: flex; flex-direction: column; align-items: center; gap: 15px; margin-top: 20px;">
-
-  <!-- Badge de HTML5 -->
-  <div style="display: inline-block;">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  </div>
-  
-  <!-- Badge de JavaScript -->
-  <div style="display: inline-block;">
-    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  </div>
-
-  <!-- Badge de Python -->
-  <div style="display: inline-block;">
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  </div>
-
-  <!-- Badge de SQLite -->
-  <div style="display: inline-block;">
-    <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  </div>
-
-  <!-- Badge de CSS -->
-  <div style="display: inline-block;">
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white">
-  </div>
-
-  <!-- Badge de Linux -->
-  <div style="display: inline-block;">
-    <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  </div>
-
-  <!-- Badge de Ubuntu -->
-  <div style="display: inline-block;">
-    <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  </div>
-
-  <!-- Badge de Bootstrap -->
-  <div style="display: inline-block;">
-    <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  </div>
-
-  <!-- Badge de Django -->
-  <div style="display: inline-block;">
-    <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  </div>
-
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-top: 20px;">
+  <!-- Adicione aqui os badges de tecnologias como já está no exemplo anterior -->
 </div>
 
 <p><strong>Essas são algumas das tecnologias que mais utilizo no meu dia a dia. Estou sempre em busca de aprender novas ferramentas e melhorar minhas habilidades como desenvolvedor backend.</strong> Se quiser saber mais sobre meus projetos ou colaborar em algum, sinta-se à vontade para entrar em contato!</p>
@@ -66,32 +20,31 @@
 <p>
   <a href="https://github.com/wil258" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a> | 
+  </a>
   <a href="https://www.linkedin.com/in/william-pereira-rodrigues-19054563/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
+<h3><strong>Educação</strong></h3>
 <p>Você pode acessar mais informações sobre minha educação no meu perfil do LinkedIn através deste <a href="https://www.linkedin.com/in/william-pereira-rodrigues-19054563/details/education/1635542047926/single-media-viewer/?profileId=ACoAAA1tkrwBuqCb6qEo8lEAy0sw9zCpVIs23Ew" target="_blank"><strong>link</strong></a>.</p>
 
 <p>Ou veja a imagem do meu perfil educacional abaixo:</p>
-<p><a href="https://cs50.harvard.edu/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Harvard_University_logo.svg" alt="Harvard Introdução Ciências da Computação" width="200">
-</a></p>
+<p>
+  <a href="https://cs50.harvard.edu/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Harvard_University_logo.svg" alt="Harvard Introdução Ciências da Computação" width="200" style="border: 2px solid #000; border-radius: 10px;">
+  </a>
+</p>
 
+<h3><strong>Congresso IFBA Juazeiro</strong></h3>
 <p>Você pode acessar mais informações sobre o Congresso IFBA Juazeiro através deste <a href="https://www.even3.com.br/documentos/imprimir?i=69449061.0029858.1.9.8998056001842468&cc=787DE849-DC26-4C46-AA69-EEC0A135CBEE" target="_blank"><strong>link</strong></a>.</p>
 
 <p>Ou veja a imagem clicável do logotipo do IFBA abaixo:</p>
-<p><a href="https://portal.ifba.edu.br/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Logo_IFBA.png" alt="IFBA Logo" width="200">
-</a></p>
-
-
-
-
-
-
-
+<p>
+  <a href="https://portal.ifba.edu.br/" target="_blank" style="display: inline-block; text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Logo_IFBA.png" alt="IFBA Logo" width="200" style="border: 2px solid #000; border-radius: 10px;">
+  </a>
+</p>
 
   
 
