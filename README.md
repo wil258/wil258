@@ -76,8 +76,7 @@
 
 
 <p><a href="https://www.youtube.com/watch?v=3LPJfIKxwWc&list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Harvard_University_logo.svg" alt="Harvard Introdução Ciências da Computação" width="200">
-</a></p>
+  
 
 <p>Você pode acessar mais informações sobre o Congresso IFBA Juazeiro através deste <a href="https://www.even3.com.br/documentos/imprimir?i=69449061.0029858.1.9.8998056001842468&cc=787DE849-DC26-4C46-AA69-EEC0A135CBEE" target="_blank"><strong>link</strong></a>.</p>
 
