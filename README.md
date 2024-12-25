@@ -1,3 +1,4 @@
+
 ### Olá, sou <strong>William</strong>, bolsista CEPEDI, trilha <strong>Backend Python 1 e 2 segunda fase</strong>
 
 <p><strong>Sou um desenvolvedor focado em backend, com ênfase em Python e tecnologias relacionadas.</strong> Atualmente, sou bolsista do programa CEPEDI e estou aprofundando meus conhecimentos em backend, com foco em Python, bancos de dados, frameworks como Django, e ferramentas como SQLite. Você pode saber mais sobre o <strong>CEPEDI</strong> através do link abaixo:</p>
@@ -72,23 +73,16 @@
   </a>
 </p>
 
-
 <p>Você pode acessar mais informações sobre minha educação no meu perfil do LinkedIn através deste <a href="https://www.linkedin.com/in/william-pereira-rodrigues-19054563/details/education/1635542047926/single-media-viewer/?profileId=ACoAAA1tkrwBuqCb6qEo8lEAy0sw9zCpVIs23Ew" target="_blank"><strong>link</strong></a>.</p>
 
 <p>Ou veja a imagem do meu perfil educacional abaixo:</p>
-<img src="https://via.placeholder.com/150" alt="Imagem do Perfil Educacional" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Harvard_University_logo.svg" alt="Harvard Introdução Ciências da Computação" width="200" />
 
-<p>Você pode acessar mais informações sobre minha educação no meu perfil do LinkedIn através deste <a href="https://www.linkedin.com/in/william-pereira-rodrigues-19054563/details/education/1635542047926/single-media-viewer/?profileId=ACoAAA1tkrwBuqCb6qEo8lEAy0sw9zCpVIs23Ew" target="_blank"><strong>link</strong></a>.</p>
+<p>Você pode acessar mais informações sobre o Congresso IFBA Juazeiro através deste <a href="https://www.even3.com.br/documentos/imprimir?i=69449061.0029858.1.9.8998056001842468&cc=787DE849-DC26-4C46-AA69-EEC0A135CBEE" target="_blank"><strong>link</strong></a>.</p>
 
-<p>Ou veja a imagem do meu perfil educacional abaixo:</p>
-<img src="https://via.placeholder.com/150" alt="Imagem do Perfil Educacional" />
+<p>Ou veja a imagem do evento abaixo:</p>
+<img src="https://via.placeholder.com/300x200" alt="Congresso IFBA Juazeiro" />
 
-
-
-
-
-  
-  
 
 
 
