@@ -20,6 +20,10 @@ https://cepedi.org.br/
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
+<div style="display:inline-block">  
+  <img align="center" alt=<div style="display:inline-block">  
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
 
 
   
