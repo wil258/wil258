@@ -1,4 +1,4 @@
-### Olá, sou William, bolsista CEPEDI, Backend Python 1 e 2 segunda fase
+### Olá, sou William, bolsista CEPEDI, trilha  Backend Python 1 e 2 segunda fase
 
 https://cepedi.org.br/quem-somos/
 
