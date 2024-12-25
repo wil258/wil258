@@ -63,7 +63,7 @@
 <h3><strong>Entre em contato</strong></h3>
 <p>Você pode me encontrar através do meu <a href="mailto:microempreedendorwa@gmail.com">Gmail</a> ou nas redes sociais:</p>
 
-<p><a href="https://github.com/wil258" target="_blank"><strong>GitHub</strong></a> | <a href="https://www.linkedin.com/in/william-profile" target="_blank"><strong>LinkedIn</strong></a></p>
+<p><a href="https://github.com/wil258" target="_blank"><strong>GitHub</strong></a> | <a href="https://https://www.linkedin.com/in/william-pereira-rodrigues-19054563/" target="_blank"><strong>LinkedIn</strong></a></p>
 
 
 
