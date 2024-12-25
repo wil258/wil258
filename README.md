@@ -1,3 +1,10 @@
+### Olá, sou William, bolsista CEPEDI, trilha  Backend Python 1 e 2 segunda fase
+
+https://cepedi.org.br/quem-somos/
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wil258&show=dracula)
+
 <div style="display: flex; flex-direction: column; gap: 20px;">
   <div style="display: inline-block;">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -27,6 +34,7 @@
     <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   </div>
 </div>
+
 
 
 
