@@ -1,15 +1,15 @@
-### Olá, sou William, bolsista CEPEDI, trilha Backend Python 1 e 2 segunda fase
+### Olá, sou <strong>William</strong>, bolsista CEPEDI, trilha <strong>Backend Python 1 e 2 segunda fase</strong>
 
-<p>Sou um desenvolvedor focado em backend, com ênfase em Python e tecnologias relacionadas. Atualmente, sou bolsista do programa CEPEDI e estou aprofundando meus conhecimentos em backend, com foco em Python, bancos de dados, frameworks e ferramentas como Django e SQLite. Você pode saber mais sobre o CEPEDI através do link abaixo:</p>
+<p><strong>Sou um desenvolvedor focado em backend, com ênfase em Python e tecnologias relacionadas.</strong> Atualmente, sou bolsista do programa CEPEDI e estou aprofundando meus conhecimentos em backend, com foco em Python, bancos de dados, frameworks como Django, e ferramentas como SQLite. Você pode saber mais sobre o <strong>CEPEDI</strong> através do link abaixo:</p>
 
-<p><a href="https://cepedi.org.br/quem-somos/" target="_blank">CEPEDI - Quem Somos</a></p>
+<p><a href="https://cepedi.org.br/quem-somos/" target="_blank"><strong>CEPEDI - Quem Somos</strong></a></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wil258&show=dracula)
 
-<h3>Tecnologias que mais uso no meu dia</h3>
+<h3><strong>Tecnologias que mais uso no meu dia</strong></h3>
 
 <!-- Organizando os badges verticalmente com flexbox e maior espaçamento -->
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin-top: 20px;">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 15px; margin-top: 20px;">
 
   <!-- Badge de HTML5 -->
   <div style="display: inline-block;">
@@ -58,7 +58,13 @@
 
 </div>
 
-<p>Essas são algumas das tecnologias que mais utilizo no meu dia a dia, e estou sempre em busca de aprender novas ferramentas e melhorar minhas habilidades como desenvolvedor backend. Se quiser saber mais sobre meus projetos ou colaborar em algum, sinta-se à vontade para entrar em contato!</p>
+<p><strong>Essas são algumas das tecnologias que mais utilizo no meu dia a dia, e estou sempre em busca de aprender novas ferramentas e melhorar minhas habilidades como desenvolvedor backend.</strong> Se quiser saber mais sobre meus projetos ou colaborar em algum, sinta-se à vontade para entrar em contato!</p>
+
+<h3><strong>Entre em contato</strong></h3>
+<p>Você pode me encontrar através do meu <a href="mailto:microempreedendorwa@gmail.com">Gmail</a> ou nas redes sociais:</p>
+
+<p><a href="https://github.com/wil258" target="_blank"><strong>GitHub</strong></a> | <a href="https://www.linkedin.com/in/william-profile" target="_blank"><strong>LinkedIn</strong></a></p>
+
 
 
 
