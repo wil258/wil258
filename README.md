@@ -75,13 +75,13 @@
 <p>Você pode acessar mais informações sobre minha educação no meu perfil do LinkedIn através deste <a href="https://www.linkedin.com/in/william-pereira-rodrigues-19054563/details/education/1635542047926/single-media-viewer/?profileId=ACoAAA1tkrwBuqCb6qEo8lEAy0sw9zCpVIs23Ew" target="_blank"><strong>link</strong></a>.</p>
 
 <p>Ou veja a imagem do meu perfil educacional abaixo:</p>
-<p><a href="https://cs50.harvard.edu/" target="_blank">
+<p><a href="https://www.youtube.com/watch?v=3LPJfIKxwWc&list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Harvard_University_logo.svg" alt="Harvard Introdução Ciências da Computação" width="200">
 </a></p>
 
 <p>Você pode acessar mais informações sobre o Congresso IFBA Juazeiro através deste <a href="https://www.even3.com.br/documentos/imprimir?i=69449061.0029858.1.9.8998056001842468&cc=787DE849-DC26-4C46-AA69-EEC0A135CBEE" target="_blank"><strong>link</strong></a>.</p>
 
-<p>Ou veja a imagem clicável do logotipo do IFBA abaixo:</p>
+
 <p><a href="https://portal.ifba.edu.br/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Logo_IFBA.png" alt="IFBA Logo" width="200">
 </a></p>
