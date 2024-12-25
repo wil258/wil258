@@ -1,4 +1,3 @@
-
 ### Olá, sou William, bolsista CEPEDI, Backend Python 1 e 2 segunda fase
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:microempreedendorwa@gmail.com)
 
@@ -19,10 +18,12 @@ https://cepedi.org.br/
 <div style="display:inline-block">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
+<br>
+<div style="display:inline-block">
+  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+</div>
 
-<div style="display:inline-block">  
-  <img align="center" alt=<div style="display:inline-block">  
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
 
 
 
