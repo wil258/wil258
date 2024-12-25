@@ -1,7 +1,7 @@
 ### Olá, sou William, bolsista CEPEDI, Backend Python 1 e 2 segunda fase
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:microempreedendorwa@gmail.com)
 
-https://cepedi.org.br/
+https://cepedi.org.br/quem-somos/
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wil258&show=dracula)
 
