@@ -1,5 +1,5 @@
 ### Olá, sou William, bolsista CEPEDI, Backend Python 1 e 2 segunda fase
-https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:microempreedendorwa@gmail.com)
 
 https://cepedi.org.br/
 
