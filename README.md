@@ -83,7 +83,11 @@
 
 <p><a href="https://portal.ifba.edu.br/" target="_blank">
 
-<h3><strong>Hackatons Partcipei </strong></h3>
+<h3><strong>Hackatons que Partcipei </strong></h3>
+
+<p><strong>"As enchentes no Rio Grande do Sul foram causadas por fortes chuvas que começaram a atingir o estado no final do mês de abril de 2024, prolongando-se até maio. Por conta disso, vários cursos d’água e o lago Guaíba tiveram seus níveis aumentados para além da cota de inundação, extravasando para as áreas adjacentes, o que inclui os municípios por eles abastecidos. 441 cidades foram atingidas, o que representa 95% dos municípios sul-rio-grandenses. Milhões de pessoas foram afetadas, com 600 mil desabrigados e 179 mortes, além de dezenas de desaparecidos."
+
+Veja mais sobre "Enchentes no Rio Grande do Sul" em: https://brasilescola.uol.com.br/brasil/enchentes-no-rio-grande-do-sul.htm</strong> </p>
 
 
   
