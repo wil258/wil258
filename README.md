@@ -94,7 +94,6 @@ Unindo tecnologia e solidariedade. A Maratona Tech pelo RS é uma iniciativa col
 
 <p><strong> Projeto Hackaton submetido Puxadinho Digital
 Ciência, tecnologia e engenharia
-🏘️ A Orientação Técnica que você Merece!
 👥 Negócio de Impacto Social da @bitavel e @institutobitavel
 Av. Maruípe, 2444, Sala 1, Itararé, Vitória, Brasil
 <p><a href="https:https://www.puxadinhodigital.com.br/?fbclid=PAZXh0bgNhZW0CMTEAAabQVaNB4NRunFwgNSeTlYee2fb4B6TzwpDyC3D_X5p6LjNAIu3nM_tIOAM_aem_THJl-yGH7Yu02H9JHlsYIg" target="_blank">
