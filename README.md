@@ -96,7 +96,7 @@ Unindo tecnologia e solidariedade. A Maratona Tech pelo RS é uma iniciativa col
 Ciência, tecnologia e engenharia
 🏘️ A Orientação Técnica que você Merece!
 👥 Negócio de Impacto Social da @bitavel e @institutobitavel
-Av. Maruípe, 2444, Sala 1, Itararé, Vitória, Brazil
+Av. Maruípe, 2444, Sala 1, Itararé, Vitória, Brasil
 
 
 
