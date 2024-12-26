@@ -98,7 +98,7 @@ Ciência, tecnologia e engenharia
 👥 Negócio de Impacto Social da @bitavel e @institutobitavel
 Av. Maruípe, 2444, Sala 1, Itararé, Vitória, Brasil
 
-<p><a href="https:https://www.puxadinhodigital.com.br/?fbclid=PAZXh0bgNhZW0CMTEAAabQVaNB4NRunFwgNSeTlYee2fb4B6TzwpDyC3D_X5p6LjNAIu3nM_tIOAM_aem_THJl-yGH7Yu02H9JHlsYIg" target="_blank">" target="_blank">
+<p><a href="https:https://www.puxadinhodigital.com.br/?fbclid=PAZXh0bgNhZW0CMTEAAabQVaNB4NRunFwgNSeTlYee2fb4B6TzwpDyC3D_X5p6LjNAIu3nM_tIOAM_aem_THJl-yGH7Yu02H9JHlsYIg" target="_blank">
 
 
 
