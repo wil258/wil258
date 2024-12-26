@@ -89,8 +89,9 @@
 
 Veja mais sobre "Enchentes no Rio Grande do Sul" em: https://brasilescola.uol.com.br/brasil/enchentes-no-rio-grande-do-sul.htm</strong> </p>
 
-<p><<strong>Maratona Tech pelo RS - 17/05/2024
-Unindo tecnologia e solidariedade A Maratona Tech pelo RS é uma iniciativa colaborativa que tem como objetivo propor soluções tecnológicas para oferecer atendimento e suporte a milhares de pessoas afetadas pelas chuvas e inundações que atingiram o Rio Grande Sul
+<p><strong> Maratona Tech pelo RS - 17/05/2024
+Unindo tecnologia e solidariedade. A Maratona Tech pelo RS é uma iniciativa colaborativa que tem como objetivo propor soluções tecnológicas para oferecer atendimento e suporte a milhares de pessoas afetadas pelas chuvas e inundações que atingiram o Rio Grande Sul.
+
 
 
   
