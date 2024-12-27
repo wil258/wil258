@@ -111,7 +111,7 @@ Há 2 décadas, trabalhamos com as melhores práticas de Gestão e Desenvolvimen
   </a>
 </p>
 <p><strong> Referencial Teórico
-<a href="file:///C:/Users/Willian/Downloads/137608+-+Minera%C3%A7%C3%A3o+de+Dados+Educacionais+para+Predi%C3%A7%C3%A3o.pdf">
+<a href="https://seer.ufrgs.br/index.php/InfEducTeoriaPratica/article/view/137608.">
     Clique aqui
   </a>
 </p>
