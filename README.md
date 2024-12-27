@@ -57,6 +57,7 @@ Olá, sou <strong>William</strong>, bolsista CEPEDI, trilha <strong>Backend Pyth
   </div>
 
 </div>
+<br>
 
 
 <p><strong>Essas são algumas das tecnologias que mais utilizo no meu dia a dia. Estou sempre em busca de aprender novas ferramentas e melhorar minhas habilidades como desenvolvedor backend.</strong> Se quiser saber mais sobre meus projetos ou colaborar em algum, sinta-se à vontade para entrar em contato!</p>
