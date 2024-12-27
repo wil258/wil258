@@ -122,10 +122,8 @@ Investimos na ligação entre a ciência aplicada, tecnologia, mercado e a indú
 
 Há 2 décadas, trabalhamos com as melhores práticas de Gestão e Desenvolvimento para Projetos de Inovação para os seguimentos de Internet, Tecnologias Móveis, Automação Industrial, Iot, Inteligência Artificial, Cloud Computing, Industria 4.0, Big Data.<strong>
 
-<p><strong> Projeto submetido <strong>
-
 <p><strong>Projeto sumetido <strong>
-<p><strong>Chatbots<strong>
+<p><strong>IncluiEdu<strong>
 <a href="https://docs.google.com/document/d/1PiL7NbnyG-L1OxCWNc_8YuXmJTzpNEor313A7GqLB9Y/edit?tab=t.0#heading=h.br3zpb6vgr5u">
     Clique aqui
   </a>
