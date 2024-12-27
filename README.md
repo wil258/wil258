@@ -38,7 +38,7 @@ Sou um desenvolvedor focado em backend, com ênfase em Python e tecnologias rela
 
 </div>
 
-
+<br>
 
 <p><strong>Essas são algumas das tecnologias que mais utilizo no meu dia a dia. Estou sempre em busca de aprender novas ferramentas e melhorar minhas habilidades como desenvolvedor backend.</strong> Se quiser saber mais sobre meus projetos ou colaborar em algum, sinta-se à vontade para entrar em contato!</p>
 
