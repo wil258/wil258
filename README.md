@@ -17,7 +17,7 @@ Sou um desenvolvedor focado em backend, com ênfase em Python e tecnologias rela
   
   <!-- Badge de JavaScript -->
   <div style="display: inline-block;">
-    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   </div>
 
   <!-- Badge de Python -->
