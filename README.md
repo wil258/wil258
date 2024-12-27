@@ -7,8 +7,8 @@ Sou um desenvolvedor focado em backend, com ênfase em Python e tecnologias rela
 
 <h3><strong>Tecnologias que mais uso no meu dia</strong></h3>
 
-<!-- Organizando os badges verticalmente com flexbox e maior espaçamento -->
-<div style="display: flex; flex-direction: column; align-items: center; gap: 15px; margin-top: 20px;">
+<!-- Organizando os badges horizontal  com flexbox e maior espaçamento --
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 30px; margin-top: 20px;">
 
   <!-- Badge de HTML5 -->
   <div style="display: inline-block;">
