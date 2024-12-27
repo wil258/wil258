@@ -134,6 +134,11 @@ O conceito surgiu em 2014, quando estudantes brasileiros de graduação fundaram
 
 Desde então, nossa missão é atrair cada vez mais atenção global para o nosso país, impulsionar o desenvolvimento do Brasil por meio da inovação, discussões impactantes e colaboração. Particpei do Processo Seletivo Embaixadores Brazil Conference,cheguei a 2 fase <strong>
 
+<p><strong>Video <strong>
+<p><strong>Jornada de William <strong>
+<a href="https://www.youtube.com/watch?v=J1tTlnqmiWA">
+    Clique aqui
+
 
 
 
