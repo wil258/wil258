@@ -104,12 +104,14 @@ Investimos na ligação entre a ciência aplicada, tecnologia, mercado e a indú
 Há 2 décadas, trabalhamos com as melhores práticas de Gestão e Desenvolvimento para Projetos de Inovação para os seguimentos de Internet, Tecnologias Móveis, Automação Industrial, Iot, Inteligência Artificial, Cloud Computing, Industria 4.0, Big Data.<strong>
 
 <p><strong>Projeto submetido <strong>
-  <title>Referencial teórico</title>
+  
 <p><strong>IncluiEdu<strong>
 <a href="https://docs.google.com/document/d/1PiL7NbnyG-L1OxCWNc_8YuXmJTzpNEor313A7GqLB9Y/edit?tab=t.0#heading=h.br3zpb6vgr5u">
     Clique aqui
   </a>
 </p>
+<p><strong> Referencial Teórico
+  
 <p><strong>A Brazil Conference at Harvard & MIT é um evento anual realizado desde 2015 pela comunidade brasileira de estudantes na região de Boston.
 
 O conceito surgiu em 2014, quando estudantes brasileiros de graduação fundaram um pequeno evento para celebrar os 30 anos de democracia no Brasil, mas logo ganhou destaque na imprensa, sendo apelidado de "Davos Brasileira".
