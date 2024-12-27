@@ -107,7 +107,7 @@ Av. Maruípe, 2444, Sala 1, Itararé, Vitória, Brasil
 
 <p><strong> O QUE É O DESAFIO BRASA HACKS?
 A BRASA cresceu com a missão de empoderar e capacitar a próxima geração de líderes que vão transformar o Brasil. Somos apaixonados por inovação e acreditamos no poder da tecnologia. Com isso, criamos o Desafio BRASA Hacks. Uma experiência imersiva com o objetivo de conectar, desenvolver, e engajar estudantes brasileiros interessados em tecnologia e inovação.<strong>
-<p><strong>Projeto sumetido <strong>
+<p><strong>Projeto submetido <strong>
 <p><strong>Chatbots<strong>
 <a href="https://https://trello.com/b/evxxfu1J/hackathon-brasa" target="_blank">
     Clique aqui
@@ -122,7 +122,7 @@ Investimos na ligação entre a ciência aplicada, tecnologia, mercado e a indú
 
 Há 2 décadas, trabalhamos com as melhores práticas de Gestão e Desenvolvimento para Projetos de Inovação para os seguimentos de Internet, Tecnologias Móveis, Automação Industrial, Iot, Inteligência Artificial, Cloud Computing, Industria 4.0, Big Data.<strong>
 
-<p><strong>Projeto sumetido <strong>
+<p><strong>Projeto submetido <strong>
 <p><strong>IncluiEdu<strong>
 <a href="https://docs.google.com/document/d/1PiL7NbnyG-L1OxCWNc_8YuXmJTzpNEor313A7GqLB9Y/edit?tab=t.0#heading=h.br3zpb6vgr5u">
     Clique aqui
@@ -134,7 +134,7 @@ O conceito surgiu em 2014, quando estudantes brasileiros de graduação fundaram
 
 Desde então, nossa missão é atrair cada vez mais atenção global para o nosso país, impulsionar o desenvolvimento do Brasil por meio da inovação, discussões impactantes e colaboração. Particpei do Processo Seletivo Embaixadores Brazil Conference,cheguei a 2 fase <strong>
 
-<p><strong>Video <strong>
+<p><strong>Video submetido <strong>
 <p><strong>Jornada de William <strong>
 <a href="https://www.youtube.com/watch?v=J1tTlnqmiWA">
     Clique aqui
