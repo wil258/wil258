@@ -132,7 +132,7 @@ Há 2 décadas, trabalhamos com as melhores práticas de Gestão e Desenvolvimen
 
 O conceito surgiu em 2014, quando estudantes brasileiros de graduação fundaram um pequeno evento para celebrar os 30 anos de democracia no Brasil, mas logo ganhou destaque na imprensa, sendo apelidado de "Davos Brasileira".
 
-Desde então, nossa missão é atrair cada vez mais atenção global para o nosso país, impulsionar o desenvolvimento do Brasil por meio da inovação, discussões impactantes e colaboração. Particpei do Peocesso Seletivo Embaixadores Brazil Conference,cheguei a 2 fase <strong>
+Desde então, nossa missão é atrair cada vez mais atenção global para o nosso país, impulsionar o desenvolvimento do Brasil por meio da inovação, discussões impactantes e colaboração. Particpei do Processo Seletivo Embaixadores Brazil Conference,cheguei a 2 fase <strong>
 
 
 
