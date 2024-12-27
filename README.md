@@ -107,6 +107,7 @@ Av. Maruípe, 2444, Sala 1, Itararé, Vitória, Brasil
 
 <p><strong> O QUE É O DESAFIO BRASA HACKS?
 A BRASA cresceu com a missão de empoderar e capacitar a próxima geração de líderes que vão transformar o Brasil. Somos apaixonados por inovação e acreditamos no poder da tecnologia. Com isso, criamos o Desafio BRASA Hacks. Uma experiência imersiva com o objetivo de conectar, desenvolver, e engajar estudantes brasileiros interessados em tecnologia e inovação.<strong>
+<p><strong>Projeto sumetido <strong>
 
 
 
