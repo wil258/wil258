@@ -103,7 +103,7 @@ Av. Maruípe, 2444, Sala 1, Itararé, Vitória, Brasil
   </a>
 </p>
 
-<h1> Chatbot VTX E-commerce  <H1>
+<p><strong> VTEX é uma multinacional brasileira de tecnologia com foco em cloud commerce desenvolvedora da plataforma VTEX Cloud Commerce, disponibilizada no mercado como SaaS, com atuação global e com clientes como Sony, Walmart, Whirlpool, Coca-Cola, Stanley Black & Decker, AB InBev, Nestlé, Carrefour e mais de 3.200 lojas em 38 países.<strong>
 
 
 
