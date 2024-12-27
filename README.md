@@ -111,7 +111,7 @@ Há 2 décadas, trabalhamos com as melhores práticas de Gestão e Desenvolvimen
   </a>
 </p>
 <p><strong> Referencial Teórico
-<a href="https://seer.ufrgs.br/index.php/InfEducTeoriaPratica/article/view/137608.">
+<a href="https://doi.org/10.22491/1982-1654.137608">
     Clique aqui
   </a>
 </p>
