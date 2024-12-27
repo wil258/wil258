@@ -111,7 +111,7 @@ Há 2 décadas, trabalhamos com as melhores práticas de Gestão e Desenvolvimen
   </a>
 </p>
 <p><strong> Referencial Teórico
-<a href="https://docs.google.com/document/d/1PiL7NbnyG-L1OxCWNc_8YuXmJTzpNEor313A7GqLB9Y/edit?tab=t.0">
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/williamdasilvamelo%40gmail.com?projector=1">
     Clique aqui
   </a>
 </p>
