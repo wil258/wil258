@@ -113,7 +113,14 @@ A BRASA cresceu com a missão de empoderar e capacitar a próxima geração de l
     Clique aqui
   </a>
 </p>
+<p><strong> Hackaton CEPEDI Movidos a desafios e apaixonados por tecnologia e inovação
+O CEPEDI –  Centro de Pesquisa e Desenvolvimento Tecnológico em Informática e Eletroeletrônica de Ilhéus, fundado em 2002, é uma ICT –  Instituição de Ciência, Tecnologia e Inovação, constituída como pessoa jurídica de direito privado, sem fins lucrativos e credenciada pelo Ministério da Ciência Tecnologia e Inovação(MCTI) para execução de projetos de pesquisa, desenvolvimento e inovação para o setor de tecnologia de informação e comunicação – TICs.
 
+Nossa atuação é focada em oferecer serviços e soluções inovadoras em tecnologia, com objetivo de alcançar os melhores resultados para nossos clientes, parceiros e a sociedade.
+
+Investimos na ligação entre a ciência aplicada, tecnologia, mercado e a indústria, através de projetos de pd&I, implementando soluções originais para o aumento de produtividade, competitividade e novas oportunidades de mercado para nossos clientes. 
+
+Há 2 décadas, trabalhamos com as melhores práticas de Gestão e Desenvolvimento para Projetos de Inovação para os seguimentos de Internet, Tecnologias Móveis, Automação Industrial, Iot, Inteligência Artificial, Cloud Computing, Industria 4.0, Big Data.<strong>
 
 
 
