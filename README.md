@@ -111,6 +111,10 @@ Há 2 décadas, trabalhamos com as melhores práticas de Gestão e Desenvolvimen
   </a>
 </p>
 <p><strong> Referencial Teórico
+<a href="">"https://docs.google.com/document/d/1PiL7NbnyG-L1OxCWNc_8YuXmJTzpNEor313A7GqLB9Y/edit?tab=t.0">
+    Clique aqui
+  </a>
+</p>
   
 <p><strong>A Brazil Conference at Harvard & MIT é um evento anual realizado desde 2015 pela comunidade brasileira de estudantes na região de Boston.
 
