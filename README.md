@@ -88,9 +88,9 @@ Av. Maruípe, 2444, Sala 1, Itararé, Vitória, Brasil
 
 <p><strong> O QUE É O DESAFIO BRASA HACKS?
 A BRASA cresceu com a missão de empoderar e capacitar a próxima geração de líderes que vão transformar o Brasil. Somos apaixonados por inovação e acreditamos no poder da tecnologia. Com isso, criamos o Desafio BRASA Hacks. Uma experiência imersiva com o objetivo de conectar, desenvolver, e engajar estudantes brasileiros interessados em tecnologia e inovação.<strong>
-<p><strong>Projeto submetido <strong>
+<p><strong>Hackaton 2021  <strong>
 <p><strong>Chatbots<strong>
-<a href="https://https://trello.com/b/evxxfu1J/hackathon-brasa" target="_blank">
+<a href="https://www.youtube.com/watch?v=0yCantvJ3gM">
     Clique aqui
   </a>
 </p>
