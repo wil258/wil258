@@ -1,5 +1,5 @@
-<p><strong>Olá, sou William, bolsista CEPEDI, trilha Backend Python 1 e 2 segunda fase
-Sou um desenvolvedor focado em backend, com ênfase em Python e tecnologias relacionadas. Atualmente, sou bolsista do programa CEPEDI e estou aprofundando meus conhecimentos em backend, com foco em Python, bancos de dados, frameworks como Django, e ferramentas como SQLite. Você pode saber mais sobre o CEPEDI através do link abaixo:</p><strong>
+<p><strong>Olá, sou William, bolsista CEPEDI, trilha Backend Python 1 e 2 segunda fase,
+sou um desenvolvedor focado em backend, com ênfase em Python e tecnologias relacionadas. Atualmente, sou bolsista do programa CEPEDI e estou aprofundando meus conhecimentos em backend, com foco em Python, bancos de dados, frameworks como Django, e ferramentas como SQLite. Você pode saber mais sobre o CEPEDI através do link abaixo:</p><strong>
 
 <p><a href="https://cepedi.org.br/quem-somos/" target="_blank"><strong>CEPEDI - Quem Somos</strong></a></p>
 
