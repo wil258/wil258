@@ -91,6 +91,7 @@ A BRASA cresceu com a missão de empoderar e capacitar a próxima geração de l
 <p><strong>Hackaton 2021  <strong>
 <p><strong>VTEX Chatbots<strong>
 <a href="https://www.youtube.com/watch?v=0yCantvJ3gM">
+  <a href="https://trello.com/b/evxxfu1J/hackathon-brasa">
     Clique aqui
   </a>
 </p>
