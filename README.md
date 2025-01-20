@@ -119,11 +119,7 @@ Há 2 décadas, trabalhamos com as melhores práticas de Gestão e Desenvolvimen
 <h2>VTEX</h2>
 <section>
     <p>
-        <strong>VTEX</strong> é uma multinacional brasileira de tecnologia com foco em cloud commerce, desenvolvedora da plataforma VTEX Cloud Commerce, disponibilizada no mercado como SaaS. A empresa possui atuação global e atende clientes como Sony, Walmart, Whirlpool, Coca-Cola, Stanley Black & Decker, AB InBev, Nestlé, Carrefour, entre outros, com mais de 3.200 lojas em 38 países.
-    </p>
-</section>
-
-<section>
+      
     <h2>O que é o Desafio BRASA Hacks?</h2>
     <p>
         <strong>BRASA Hacks</strong> é uma iniciativa da BRASA, criada com a missão de empoderar e capacitar a próxima geração de líderes que transformarão o Brasil. Apaixonada por inovação e tecnologia, a BRASA organiza o Desafio BRASA Hacks como uma experiência imersiva que conecta, desenvolve e engaja estudantes brasileiros interessados em tecnologia e inovação.
