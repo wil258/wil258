@@ -88,12 +88,7 @@ Av. Maruípe, 2444, Sala 1, Itararé, Vitória, Brasil
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hackathon VTEX e BRASA Hacks</title>
-</head>
-<body>
-    <section>
-       
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">      
 </p>
 <p><strong> Hackaton CEPEDI Movidos a desafios e apaixonados por tecnologia e inovação
 O CEPEDI –  Centro de Pesquisa e Desenvolvimento Tecnológico em Informática e Eletroeletrônica de Ilhéus, fundado em 2002, é uma ICT –  Instituição de Ciência, Tecnologia e Inovação, constituída como pessoa jurídica de direito privado, sem fins lucrativos e credenciada pelo Ministério da Ciência Tecnologia e Inovação(MCTI) para execução de projetos de pesquisa, desenvolvimento e inovação para o setor de tecnologia de informação e comunicação – TICs.
