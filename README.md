@@ -84,13 +84,41 @@ Av. Maruípe, 2444, Sala 1, Itararé, Vitória, Brasil
   </a>
 </p>
 
-<p><strong> VTEX é uma multinacional brasileira de tecnologia com foco em cloud commerce desenvolvedora da plataforma VTEX Cloud Commerce, disponibilizada no mercado como SaaS, com atuação global e com clientes como Sony, Walmart, Whirlpool, Coca-Cola, Stanley Black & Decker, AB InBev, Nestlé, Carrefour e mais de 3.200 lojas em 38 países.<strong>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hackathon VTEX e BRASA Hacks</title>
+</head>
+<body>
+    <section>
+        <h2>VTEX</h2>
+        <p>
+            <strong>VTEX</strong> é uma multinacional brasileira de tecnologia com foco em cloud commerce, desenvolvedora da plataforma VTEX Cloud Commerce, disponibilizada no mercado como SaaS. A empresa possui atuação global e atende clientes como Sony, Walmart, Whirlpool, Coca-Cola, Stanley Black & Decker, AB InBev, Nestlé, Carrefour, entre outros, com mais de 3.200 lojas em 38 países.
+        </p>
+    </section>
 
-<p><strong> O QUE É O DESAFIO BRASA HACKS?
-A BRASA cresceu com a missão de empoderar e capacitar a próxima geração de líderes que vão transformar o Brasil. Somos apaixonados por inovação e acreditamos no poder da tecnologia. Com isso, criamos o Desafio BRASA Hacks. Uma experiência imersiva com o objetivo de conectar, desenvolver, e engajar estudantes brasileiros interessados em tecnologia e inovação.<strong>
-<p><strong>Hackaton 2021  <strong>
-<p><strong>VTEX Chatbots<strong>
-<a href="https://www.youtube.com/watch?v=0yCantvJ3gM">
+    <section>
+        <h2>O que é o Desafio BRASA Hacks?</h2>
+        <p>
+            <strong>BRASA Hacks</strong> é uma iniciativa da BRASA, criada com a missão de empoderar e capacitar a próxima geração de líderes que transformarão o Brasil. Apaixonada por inovação e tecnologia, a BRASA organiza o Desafio BRASA Hacks como uma experiência imersiva que conecta, desenvolve e engaja estudantes brasileiros interessados em tecnologia e inovação.
+        </p>
+    </section>
+
+    <section>
+        <h2>Hackathon 2021</h2>
+        <p>
+            Durante o <strong>Hackathon 2021</strong>, participei do desenvolvimento de soluções com foco em <strong>VTEX Chatbots</strong>, utilizando tecnologias voltadas para cloud commerce e automação de atendimento ao cliente.
+        </p>
+        <p>
+            Confira mais detalhes no vídeo:
+            <a href="https://www.youtube.com/watch?v=0yCantvJ3gM" target="_blank">VTEX Chatbots - Hackathon 2021</a>.
+        </p>
+    </section>
+</body>
+</html>
+
   
     Clique aqui
   </a>
