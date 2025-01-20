@@ -110,11 +110,7 @@ Há 2 décadas, trabalhamos com as melhores práticas de Gestão e Desenvolvimen
 <a href="https://doi.org/10.22491/1982-1654.137608">
     Clique aqui
   </a>
-</p>
-<h2>VTEX</h2>
-<section>
     <p>
-      
     <h2>O que é o Desafio BRASA Hacks?</h2>
     <p>
         <strong>BRASA Hacks</strong> é uma iniciativa da BRASA, criada com a missão de empoderar e capacitar a próxima geração de líderes que transformarão o Brasil. Apaixonada por inovação e tecnologia, a BRASA organiza o Desafio BRASA Hacks como uma experiência imersiva que conecta, desenvolve e engaja estudantes brasileiros interessados em tecnologia e inovação.
