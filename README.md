@@ -93,35 +93,7 @@ Av. Maruípe, 2444, Sala 1, Itararé, Vitória, Brasil
 </head>
 <body>
     <section>
-        <h2>VTEX</h2>
-        <p>
-            <strong>VTEX</strong> é uma multinacional brasileira de tecnologia com foco em cloud commerce, desenvolvedora da plataforma VTEX Cloud Commerce, disponibilizada no mercado como SaaS. A empresa possui atuação global e atende clientes como Sony, Walmart, Whirlpool, Coca-Cola, Stanley Black & Decker, AB InBev, Nestlé, Carrefour, entre outros, com mais de 3.200 lojas em 38 países.
-        </p>
-    </section>
-
-    <section>
-        <h2>O que é o Desafio BRASA Hacks?</h2>
-        <p>
-            <strong>BRASA Hacks</strong> é uma iniciativa da BRASA, criada com a missão de empoderar e capacitar a próxima geração de líderes que transformarão o Brasil. Apaixonada por inovação e tecnologia, a BRASA organiza o Desafio BRASA Hacks como uma experiência imersiva que conecta, desenvolve e engaja estudantes brasileiros interessados em tecnologia e inovação.
-        </p>
-    </section>
-
-    <section>
-        <h2>Hackathon 2021</h2>
-        <p>
-            Durante o <strong>Hackathon 2021</strong>, participei do desenvolvimento de soluções com foco em <strong>VTEX Chatbots</strong>, utilizando tecnologias voltadas para cloud commerce e automação de atendimento ao cliente.
-        </p>
-        <p>
-            Confira mais detalhes no vídeo:
-            <a href="https://www.youtube.com/watch?v=0yCantvJ3gM" target="_blank">VTEX Chatbots - Hackathon 2021</a>.
-        </p>
-    </section>
-</body>
-</html>
-
-  
-    Clique aqui
-  </a>
+       
 </p>
 <p><strong> Hackaton CEPEDI Movidos a desafios e apaixonados por tecnologia e inovação
 O CEPEDI –  Centro de Pesquisa e Desenvolvimento Tecnológico em Informática e Eletroeletrônica de Ilhéus, fundado em 2002, é uma ICT –  Instituição de Ciência, Tecnologia e Inovação, constituída como pessoa jurídica de direito privado, sem fins lucrativos e credenciada pelo Ministério da Ciência Tecnologia e Inovação(MCTI) para execução de projetos de pesquisa, desenvolvimento e inovação para o setor de tecnologia de informação e comunicação – TICs.
@@ -144,6 +116,32 @@ Há 2 décadas, trabalhamos com as melhores práticas de Gestão e Desenvolvimen
     Clique aqui
   </a>
 </p>
+<h2>VTEX</h2>
+<section>
+    <p>
+        <strong>VTEX</strong> é uma multinacional brasileira de tecnologia com foco em cloud commerce, desenvolvedora da plataforma VTEX Cloud Commerce, disponibilizada no mercado como SaaS. A empresa possui atuação global e atende clientes como Sony, Walmart, Whirlpool, Coca-Cola, Stanley Black & Decker, AB InBev, Nestlé, Carrefour, entre outros, com mais de 3.200 lojas em 38 países.
+    </p>
+</section>
+
+<section>
+    <h2>O que é o Desafio BRASA Hacks?</h2>
+    <p>
+        <strong>BRASA Hacks</strong> é uma iniciativa da BRASA, criada com a missão de empoderar e capacitar a próxima geração de líderes que transformarão o Brasil. Apaixonada por inovação e tecnologia, a BRASA organiza o Desafio BRASA Hacks como uma experiência imersiva que conecta, desenvolve e engaja estudantes brasileiros interessados em tecnologia e inovação.
+    </p>
+</section>
+
+<section>
+    <h2>Hackathon 2021</h2>
+    <p>
+        Durante o <strong>Hackathon 2021</strong>, participei do desenvolvimento de soluções com foco em <strong>VTEX Chatbots</strong>, utilizando tecnologias voltadas para cloud commerce e automação de atendimento ao cliente.
+    </p>
+    <p>
+        Confira mais detalhes no vídeo:
+        <a href="https://www.youtube.com/watch?v=0yCantvJ3gM" target="_blank">VTEX Chatbots - Hackathon 2021</a>
+    </p>
+</section>
+</body>
+</html>
   
 <p><strong>A Brazil Conference at Harvard & MIT é um evento anual realizado desde 2015 pela comunidade brasileira de estudantes na região de Boston.
 
