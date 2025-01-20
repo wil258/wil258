@@ -91,7 +91,106 @@ A BRASA cresceu com a missão de empoderar e capacitar a próxima geração de l
 <p><strong>Hackaton 2021  <strong>
 <p><strong>VTEX Chatbots<strong>
 <a href="https://www.youtube.com/watch?v=0yCantvJ3gM">
-  <a href="https://trello.com/b/evxxfu1J/hackathon-brasa">
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quadro Trello Simples</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f5f7;
+      margin: 0;
+      padding: 0;
+    }
+
+    .board {
+      display: flex;
+      gap: 10px;
+      padding: 20px;
+    }
+
+    .column {
+      background-color: #ebecf0;
+      border-radius: 5px;
+      padding: 10px;
+      width: 300px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .column h3 {
+      margin: 0;
+      font-size: 18px;
+    }
+
+    .card {
+      background-color: white;
+      padding: 10px;
+      border-radius: 3px;
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+      cursor: grab;
+    }
+
+    .card:active {
+      cursor: grabbing;
+    }
+  </style>
+</head>
+<body>
+  <div class="board">
+    <div class="column" id="todo">
+      <h3>A Fazer</h3>
+      <div class="card">Planejar o dia</div>
+      <div class="card">Mover cartões para "Em andamento"</div>
+    </div>
+    <div class="column" id="in-progress">
+      <h3>Em Andamento</h3>
+      <div class="card">Desenvolver funcionalidades</div>
+    </div>
+    <div class="column" id="done">
+      <h3>Concluído</h3>
+      <div class="card">Enviar o projeto</div>
+      <div class="card">Preparar vídeo pitch</div>
+    </div>
+  </div>
+
+  <script>
+    const cards = document.querySelectorAll('.card');
+    let draggedCard = null;
+
+    cards.forEach(card => {
+      card.addEventListener('dragstart', (e) => {
+        draggedCard = card;
+        setTimeout(() => card.style.display = 'none', 0);
+      });
+
+      card.addEventListener('dragend', () => {
+        setTimeout(() => {
+          draggedCard.style.display = 'block';
+          draggedCard = null;
+        }, 0);
+      });
+    });
+
+    const columns = document.querySelectorAll('.column');
+
+    columns.forEach(column => {
+      column.addEventListener('dragover', (e) => {
+        e.preventDefault();
+      });
+
+      column.addEventListener('drop', () => {
+        if (draggedCard) {
+          column.appendChild(draggedCard);
+        }
+      });
+    });
+  </script>
+</body>
+</html>
     Clique aqui
   </a>
 </p>
