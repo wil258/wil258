@@ -69,7 +69,7 @@ sou um desenvolvedor focado em backend, com ênfase em Python e tecnologias rela
 
 <p><strong>"As enchentes no Rio Grande do Sul foram causadas por fortes chuvas que começaram a atingir o estado no final do mês de abril de 2024, prolongando-se até maio. Por conta disso, vários cursos d’água e o lago Guaíba tiveram seus níveis aumentados para além da cota de inundação, extravasando para as áreas adjacentes, o que inclui os municípios por eles abastecidos. 441 cidades foram atingidas, o que representa 95% dos municípios sul-rio-grandenses. Milhões de pessoas foram afetadas, com 600 mil desabrigados e 179 mortes, além de dezenas de desaparecidos."
 
-Veja mais sobre "Enchentes no Rio Grande do Sul" em: https://brasilescola.uol.com.br/brasil/enchentes-no-rio-grande-do-sul.htm</strong> </p>
+Veja mais sobre "Enchentes no Rio Grande do Sul" em: https://g1.globo.com/rs/rio-grande-do-sul/noticia/2024/05/29/um-mes-de-enchentes-no-rs-veja-cronologia-do-desastre.ghtml</strong> </p>
 
 <p><strong> Maratona Tech pelo RS - 17/05/2024
 Unindo tecnologia e solidariedade. A Maratona Tech pelo RS é uma iniciativa colaborativa que tem como objetivo propor soluções tecnológicas para oferecer atendimento e suporte a milhares de pessoas afetadas pelas chuvas e inundações que atingiram o Rio Grande Sul.
