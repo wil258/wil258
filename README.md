@@ -63,6 +63,72 @@ para construção de **soluções escaláveis e bem estruturadas**.
 ![CSS3](https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-🅱️ Bootstrap utilizado para **prototipação rápida**
+🅱️ Bootstrap utilizado para **prototipação rápida** e integração com aplicações Django.
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🧠 IncluiEdu — Plataforma Educacional Inteligente
+Projeto desenvolvido em hackathon CEPEDI com foco em **educação inclusiva**.
+
+**Atuação técnica:**
+- Desenvolvimento de lógica backend
+- Estruturação de APIs REST
+- Modelagem de dados
+- Integração backend ↔ frontend
+
+🔗 https://docs.google.com/document/d/1Jh7QuKhA3dlBZyycGwQycnL4TrF6-x02/edit
+
+---
+
+### 🌊 Puxadinho Digital — Enchentes RS
+Plataforma de apoio às vítimas das enchentes no Rio Grande do Sul.
+
+**Contribuições:**
+- Organização da arquitetura
+- Integração de sistemas
+- Entrega rápida com foco social
+
+🔗 https://www.puxadinhodigital.com.br/
+
+---
+
+### 🤝 VTEX Chatbots — Hackathon 2021
+Soluções para **automação de atendimento** em cloud commerce.
+
+🎥 https://www.youtube.com/watch?v=o0LFVTzZAF
+
+---
+
+## 🎓 Formação & Eventos
+
+🎓 **Bolsista CEPEDI / IFBA Juazeiro**  
+📄 https://www.even3.com.br/documentos/imprimir?i=69449061.0029858.1.9.8998056001842468
+
+---
+
+## 🌍 Outras Experiências
+
+### 🇧🇷 Brazil Conference at Harvard & MIT
+Processo seletivo para Embaixadores — **2ª fase**.
+
+🎥 https://www.youtube.com/watch?v=o0LFVTzZAF0
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="mailto:microempreedendorwa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/wil258">
+    <img src="https://img.shields.io/badge/GitHub-wil258-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/william-pereira-rodrigues-19054563/">
+    <img src="https://img.shields.io/badge/LinkedIn-William%20Pereira%20Rodrigues-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 
