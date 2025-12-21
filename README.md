@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou William Pereira Rodrigues
 
-Sou **desenvolvedor Backend**, bolsista do **CEPEDI**, atuando nas trilhas  
+Fui **desenvolvedor Backend**, bolsista do **CEPEDI**, atuando nas trilhas  
 **Backend Python 1 e 2 – Segunda Fase**.
 
 Tenho foco em **Python**, **APIs**, **bancos de dados**, **arquitetura backend** e
