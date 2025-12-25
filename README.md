@@ -53,5 +53,73 @@ I actively participate in **hackathons**, **technology residency programs**, and
 ### Backend
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Environment
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+### Frontend Integration
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 IncluiEdu — Intelligent Educational Platform
+Inclusive education platform developed during a CEPEDI hackathon.
+
+**My role:**
+- Backend logic and API development  
+- REST API structuring  
+- Database modeling  
+- Backend ↔ Frontend integration  
+
+🔗 https://docs.google.com/document/d/1Jh7QuKhA3dlBZyycGwQycnL4TrF6-x02/edit
+
+---
+
+### 🌊 Puxadinho Digital — Flood Relief Platform
+Social platform created to support flood victims in southern Brazil.
+
+**Contributions:**
+- Backend architecture organization  
+- System integration  
+- Fast delivery focused on real-world impact  
+
+🔗 https://www.puxadinhodigital.com.br/
+
+---
+
+### 🤖 VTEX Chatbots — Hackathon Project
+Chatbot solutions for **customer service automation** in cloud commerce.
+
+🎥 https://www.youtube.com/watch?v=o0LFVTzZAF
+
+---
+
+## 🎓 Education & Programs
+
+🎓 **CEPEDI Scholar / IFBA Juazeiro**  
+Backend Python Development Program  
+📄 https://www.even3.com.br/documentos/imprimir?i=69449061.0029858.1.9.8998056001842468
+
+---
+
+## 🌍 International Experience
+
+🇺🇸 **Brazil Conference at Harvard & MIT**  
+Selected for the **second phase** of the Ambassador selection process.
+
+---
+
+## 📫 Contact
+
+📧 Email: microempreedendorwa@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/william-pereira-rodrigues-19054563  
+💻 GitHub: https://github.com/wil258
 
 
