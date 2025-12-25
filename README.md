@@ -38,6 +38,23 @@ I actively participate in **hackathons**, **technology residency programs**, and
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=wil258&show_icons=true&theme=dracula&rank_icon=github&hide_border=true"
+    height="165"
+    alt="William's GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wil258&layout=compact&theme=dracula&hide_border=true"
+    height="165"
+    alt="Most used languages"
+  />
+</p>
+
+---
+
 ## 🧑‍💻 Currently Learning
 
 - Advanced Django & Django REST Framework  
@@ -121,5 +138,6 @@ Selected for the **second phase** of the Ambassador selection process.
 📧 Email: microempreedendorwa@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/william-pereira-rodrigues-19054563  
 💻 GitHub: https://github.com/wil258
+
 
 
