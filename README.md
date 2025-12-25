@@ -1,7 +1,10 @@
-# 👋 Olá, eu sou William Pereira Rodrigues
+# 👋 Hi, I’m William Pereira Rodrigues
+
+**Backend Python Developer** | REST APIs | Django | SQL  
+📍 Brazil • 🌍 Open to global opportunities
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=900&lines=Desenvolvedor+Backend+Python;APIs+REST+%7C+Django+%7C+SQL;Arquitetura+Backend+e+Boas+Pr%C3%A1ticas;Projetos+com+Impacto+Social+e+Tecnol%C3%B3gico" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=900&lines=Backend+Python+Developer;REST+APIs+%7C+Django+%7C+SQL;Clean+Architecture+and+Best+Practices;Building+Technology+with+Social+Impact" />
 </p>
 
 <p align="center">
@@ -18,117 +21,37 @@
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 About Me
 
-Sou **desenvolvedor Backend Python**, bolsista do **CEPEDI**, com atuação nas trilhas  
-**Backend Python 1 e 2 – Segunda Fase**.
+I am a **Backend Python Developer** and **CEPEDI scholarship holder**, currently enrolled in the  
+**Backend Python Tracks (Levels 1 & 2 — Advanced Phase)**.
 
-Tenho experiência no desenvolvimento de **APIs REST**, **arquitetura backend**,  
-**modelagem e persistência de dados**, além de integração com tecnologias frontend  
-para construção de **soluções escaláveis e bem estruturadas**.
+My main focus is on:
+- Designing and building **RESTful APIs**
+- Developing **scalable and maintainable backend architectures**
+- **Data modeling**, persistence, and database integration
+- Applying **clean code** and **best practices**
 
-🔗 CEPEDI: https://cepedi.org.br/quem-somos/
+I actively participate in **hackathons**, **technology residency programs**, and projects focused on **social and educational impact**.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=wil258&show_icons=true&theme=dracula&rank_icon=github&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wil258&layout=compact&theme=dracula&hide_border=true"
-    height="165"
-  />
-</p>
+🔗 CEPEDI — https://cepedi.org.br/quem-somos/
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🧑‍💻 Currently Learning
 
-### ⚙️ Backend
+- Advanced Django & Django REST Framework  
+- API security (JWT, permissions, authentication)  
+- Backend architecture patterns  
+- SQL optimization and relational modeling  
+- Backend ↔ Frontend integration  
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🖥️ Infraestrutura
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-### 🎨 Integração Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-🅱️ Bootstrap utilizado para **prototipação rápida** e integração com aplicações Django.
-
----
-
-## 🚀 Projetos em Destaque
-
-### 🧠 IncluiEdu — Plataforma Educacional Inteligente
-Projeto desenvolvido em hackathon CEPEDI com foco em **educação inclusiva**.
-
-**Atuação técnica:**
-- Desenvolvimento de lógica backend
-- Estruturação de APIs REST
-- Modelagem de dados
-- Integração backend ↔ frontend
-
-🔗 https://docs.google.com/document/d/1Jh7QuKhA3dlBZyycGwQycnL4TrF6-x02/edit
-
----
-
-### 🌊 Puxadinho Digital — Enchentes RS
-Plataforma de apoio às vítimas das enchentes no Rio Grande do Sul.
-
-**Contribuições:**
-- Organização da arquitetura
-- Integração de sistemas
-- Entrega rápida com foco social
-
-🔗 https://www.puxadinhodigital.com.br/
-
----
-
-### 🤝 VTEX Chatbots — Hackathon 2021
-Soluções para **automação de atendimento** em cloud commerce.
-
-🎥 https://www.youtube.com/watch?v=o0LFVTzZAF
-
----
-
-## 🎓 Formação & Eventos
-
-🎓 **Bolsista CEPEDI / IFBA Juazeiro**  
-📄 https://www.even3.com.br/documentos/imprimir?i=69449061.0029858.1.9.8998056001842468
-
----
-
-## 🌍 Outras Experiências
-
-### 🇧🇷 Brazil Conference at Harvard & MIT
-Processo seletivo para Embaixadores — **2ª fase**.
-
-🎥 https://www.youtube.com/watch?v=o0LFVTzZAF0
-
----
-
-## 📫 Contato
-
-<p align="center">
-  <a href="mailto:microempreedendorwa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/wil258">
-    <img src="https://img.shields.io/badge/GitHub-wil258-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/william-pereira-rodrigues-19054563/">
-    <img src="https://img.shields.io/badge/LinkedIn-William%20Pereira%20Rodrigues-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 
 
