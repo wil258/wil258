@@ -23,45 +23,9 @@
 
 ## 🧠 About Me
 
-I am a **Backend Python Developer** and **CEPEDI scholarship holder**, currently enrolled in the  
-**Backend Python Tracks (Levels 1 & 2 — Advanced Phase)**.
+I am a **Backend Python Developer** with experience building **RESTful APIs**, scalable backend systems, and database-driven applications using **Python, Django, and SQL**.
 
-My main focus is on:
-- Designing and building **RESTful APIs**
-- Developing **scalable and maintainable backend architectures**
-- **Data modeling**, persistence, and database integration
-- Applying **clean code** and **best practices**
-
-I actively participate in **hackathons**, **technology residency programs**, and projects focused on **social and educational impact**.
-
-🔗 CEPEDI — https://cepedi.org.br/quem-somos/
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=wil258&show_icons=true&theme=dracula&rank_icon=github&hide_border=true"
-    height="165"
-    alt="William's GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wil258&layout=compact&theme=dracula&hide_border=true"
-    height="165"
-    alt="Most used languages"
-  />
-</p>
-
----
-
-## 🧑‍💻 Currently Learning
-
-- Advanced Django & Django REST Framework  
-- API security (JWT, permissions, authentication)  
-- Backend architecture patterns  
-- SQL optimization and relational modeling  
-- Backend ↔ Frontend integration  
+I am a **CEPEDI scholarship holder**, enrolled in an advanced Backend Python program, and I actively participate in **hackathons**, **technology residencies**, and **social impact projects**.
 
 ---
 
@@ -70,66 +34,62 @@ I actively participate in **hackathons**, **technology residency programs**, and
 ### Backend
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Frontend (Integration)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Environment
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Frontend Integration
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wil258&show_icons=true&theme=dracula&rank_icon=github&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wil258&layout=compact&theme=dracula&hide_border=true" height="165"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧠 IncluiEdu — Intelligent Educational Platform
-Inclusive education platform developed during a CEPEDI hackathon.
-
-**My role:**
-- Backend logic and API development  
-- REST API structuring  
-- Database modeling  
-- Backend ↔ Frontend integration  
+- Backend development and REST API design  
+- Database modeling and integration  
+- Backend ↔ Frontend communication  
 
 🔗 https://docs.google.com/document/d/1Jh7QuKhA3dlBZyycGwQycnL4TrF6-x02/edit
 
 ---
 
 ### 🌊 Puxadinho Digital — Flood Relief Platform
-Social platform created to support flood victims in southern Brazil.
-
-**Contributions:**
 - Backend architecture organization  
-- System integration  
-- Fast delivery focused on real-world impact  
+- System integration under emergency conditions  
 
 🔗 https://www.puxadinhodigital.com.br/
 
 ---
 
 ### 🤖 VTEX Chatbots — Hackathon Project
-Chatbot solutions for **customer service automation** in cloud commerce.
+- Backend logic for chatbot automation  
 
 🎥 https://www.youtube.com/watch?v=o0LFVTzZAF
 
 ---
 
-## 🎓 Education & Programs
+## 🎓 Education
 
-🎓 **CEPEDI Scholar / IFBA Juazeiro**  
-Backend Python Development Program  
-📄 https://www.even3.com.br/documentos/imprimir?i=69449061.0029858.1.9.8998056001842468
-
----
-
-## 🌍 International Experience
-
-🇺🇸 **Brazil Conference at Harvard & MIT**  
-Selected for the **second phase** of the Ambassador selection process.
+**CEPEDI / IFBA Juazeiro**  
+Backend Python Development Program (Advanced)
 
 ---
 
