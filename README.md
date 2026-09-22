@@ -1,187 +1,58 @@
 # 👋 Hi, I'm William Pereira Rodrigues
 
-**Backend Python Developer** | Django | REST APIs | SQL | Clean Architecture
+### 🐍 Backend Python Developer | Django | REST APIs | SQL
 
-📍 Brazil • 🌍 Open to Remote & International Opportunities
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=BD93F9&center=true&vCenter=true&width=900&lines=Backend+Python+Developer;Building+REST+APIs+with+Django;Python+%7C+SQL+%7C+Clean+Architecture;Technology+for+Real+World+Impact" />
-</p>
-
-<p align="center">
-  <a href="mailto:microempreedendorwa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
+<p align="left">
   <a href="https://github.com/wil258">
-    <img src="https://img.shields.io/badge/GitHub-wil258-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-wil258-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
   <a href="https://www.linkedin.com/in/william-pereira-rodrigues-19054563/">
-    <img src="https://img.shields.io/badge/LinkedIn-William%20Pereira%20Rodrigues-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-William%20Pereira%20Rodrigues-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:microempreedendorwa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
-# 🚀 About Me
-
-I'm a **Backend Python Developer** passionate about building scalable applications, RESTful APIs, and robust backend systems using **Python**, **Django**, and **SQL**.
-
-Currently, I'm a **CEPEDI Scholarship Holder**, participating in an advanced Backend Python development program in partnership with **IFBA**.
-
-My experience includes:
-
-- REST API development
-- Database modeling and optimization
-- Backend architecture
-- Hackathons and innovation programs
-- Open-source and collaborative projects
-- Agile methodologies (Scrum)
-
-I enjoy solving real-world problems through clean, maintainable, and scalable software.
-
----
-
-# 🛠 Tech Stack
-
-## Backend
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-## Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-## Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
----
-
-# 📈 GitHub Statistics
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wil258&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wil258&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=wil258&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wil258&theme=github-dark&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wil258&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=BD93F9&center=true&vCenter=true&width=900&lines=Backend+Python+Developer;Building+REST+APIs+with+Django;Python+%7C+Django+%7C+SQL;Clean+Architecture+%7C+Software+Engineering;Technology+for+Real-World+Impact" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 About Me
 
-## 🧠 IncluiEdu
+I'm a **Backend Python Developer** focused on building reliable, maintainable, and scalable backend systems.
 
-An adaptive educational platform focused on improving learning experiences through technology.
+My main experience is with **Python, Django, Django REST Framework, SQL, REST APIs, and software architecture**.
 
-### Highlights
+I'm currently a **CEPEDI Scholarship Holder**, participating in an advanced Backend Python development program in partnership with **IFBA**.
 
-- REST API development
-- Backend architecture
-- Database design
-- Django Backend
-- Team collaboration
+I enjoy transforming ideas and real-world problems into software solutions, with a strong interest in **backend architecture, APIs, databases, automation, and technology for social impact**.
 
-📄 Documentation
+### 💡 What I Work With
 
-https://docs.google.com/document/d/1Jh7QuKhA3dlBZyycGwQycnL4TrF6-x02/edit
-
----
-
-## 🌊 Puxadinho Digital
-
-Platform created during a hackathon to support communities affected by floods.
-
-### Contributions
-
-- Backend development
-- System integration
-- API architecture
-
-🌐
-
-https://www.puxadinhodigital.com.br/
+* 🐍 Python backend development
+* 🌐 RESTful API development
+* ⚙️ Django & Django REST Framework
+* 🗄️ SQL and relational databases
+* 🏗️ Clean and maintainable architecture
+* 🔐 Backend business rules and validation
+* 🔄 API integration
+* 👥 Git & collaborative development
+* 🚀 Agile/Scrum methodologies
+* 🧠 Machine Learning & Data Mining
 
 ---
 
-## 🤖 VTEX Chatbots
+# 🛠️ Tech Stack
 
-Hackathon project focused on chatbot automation and backend services.
+### Backend
 
-### Contributions
-
-- Backend logic
-- API integration
-- Business rules
-
-🎥 Demo
-
-https://www.youtube.com/watch?v=o0LFVTzZAF
-
----
-
-# 🎓 Education
-
-### CEPEDI + IFBA
-
-**Advanced Backend Python Development Program**
-
-Main topics:
-
-- Python
-- Django
-- REST APIs
-- SQL
-- Software Engineering
-- Agile Development
-
----
-
-# 📫 Connect With Me
-
-📧 **Email**
-
-microempreedendorwa@gmail.com
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/william-pereira-rodrigues-19054563
-
-💻 **GitHub**
-
-https://github.com/wil258
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-Always learning, always building.
-
-</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="ht
 
 
 
